@@ -1,0 +1,6 @@
+StartPos:975,1000
+Sprites:
+Left:
+Up:
+Right:
+Down:

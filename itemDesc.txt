@@ -1,0 +1,4 @@
+Item;value;Background Color;Text Color;Description
+;=================================================
+Wallet;50.00;#DBD9B7;oldlace;<3 Contains: {Value} <1 Debit Card <1 App-5A Keycard
+Phone;0.00;#DBD9B7;oldlace;<0 Used to make calls and send texts
