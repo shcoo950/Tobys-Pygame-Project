@@ -1,0 +1,5 @@
+Map:Trainstation
+Pos:192,192
+Inventory:Wallet;1,Phone;1
+Hotbar:Wallet;2,Phone;1,Wallet;2,Phone;1
+Money:50.00:500.00

@@ -1,0 +1,7 @@
+StartPos:285,0
+Sprites:Player,Police1
+PathResolution:42
+Left:
+Up:
+Right:
+Down:
